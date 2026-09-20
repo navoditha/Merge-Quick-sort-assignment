@@ -1,0 +1,15 @@
+MERGE SORT
+
+Best Case: O(n log n)
+Average Case: O(n log n)
+Worst Case: O(n log n)
+Space Complexity: O(n)
+
+
+QUICK SORT
+
+Best Case: O(n log n)
+Average Case: O(n log n)
+Worst Case: O(n^2)
+Average Space Complexity: O(log n)
+Worst Case Space Complexity: O(n)
